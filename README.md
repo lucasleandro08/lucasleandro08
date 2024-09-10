@@ -20,7 +20,7 @@ tenho 19 anos e sou apaixonado pelo mundo da tecnologia e dos games. Desde cedo,
 Minha jornada está apenas começando, mas estou empenhado em transformar ideias em código. Como por exemplo esse meu jogo:
 ## A FUGA DA PIRAMIDE
 Este jogo foi feito para minha graduação no técnico de informática, é um jogo Escape-room em primeira pessoa, onde o player precisa realizar puzzles e correr contra o tempo para não ficar preso na Grande Pirâmide.
-![](https://github.com/lucasleandro08/TCC-final)
+![FUGA DA PIRAMIDE](https://github.com/lucasleandro08/TCC-final)
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasleandro08&show_icons=true&bg_color=00000000&layout=compact)](https://github.com/lucasleandro08&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasleandro08&show_icons=true&bg_color=00000000&layout=compact)
