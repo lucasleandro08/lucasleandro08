@@ -1,24 +1,23 @@
 <p align="center">
-  <img src="themes/lelouch/hero.svg" width="100%" alt="Lucas Leandro — full stack developer at Qeevo Group, applied AI"/>
+  <img src="themes/naruto/hero.svg" width="100%" alt="Lucas Leandro, full stack shinobi: a hand-seal sequence summons shadow clones under a full moon"/>
 </p>
 
 <p align="center">
-  <img src="themes/lelouch/board.svg" width="100%" alt="The board: my stack as chess pieces"/>
+  <img src="themes/naruto/scroll.svg" width="100%" alt="Scroll of seals: my stack as Naruto jutsu"/>
 </p>
 
 <p align="center">
-  <img src="themes/lelouch/dossier.svg" width="100%" alt="Classified: most of my work lives in private repositories at Quero Educação"/>
-</p>
-
-<h3 align="center">Arsenal</h3>
-
-<p align="center">
-  <a href="https://github.com/lucasleandro08/claude-mods"><b>claude-mods</b></a> — Dracula-themed Claude Code mods: live diff pane, Kubernetes pods pane, PR dashboard, guardrails<br/>
-  <a href="https://github.com/lucasleandro08/llm-knowledge-base-template"><b>llm-knowledge-base-template</b></a> — self-compiling personal knowledge base for Claude Code conversations<br/>
-  <a href="https://github.com/lucasleandro08/filemorph"><b>filemorph</b></a> — 100% client-side file converter · <a href="https://filemorph-nu.vercel.app">live</a>
+  <img src="themes/naruto/missions.svg" width="100%" alt="Mission board: three completed missions (my public projects) and one classified S-rank mission at Quero Educação"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-alves-leandro/"><img src="https://img.shields.io/badge/Join_the_Black_Knights-LinkedIn-4B2A7B?style=for-the-badge&labelColor=120A1E" alt="LinkedIn"/></a>
-  <a href="mailto:lucasalvesleandro32@gmail.com"><img src="https://img.shields.io/badge/Send_orders-Email-D4AF37?style=for-the-badge&labelColor=120A1E" alt="Email"/></a>
+  <b>Completed missions</b><br/>
+  <a href="https://github.com/lucasleandro08/claude-mods">A-rank · claude-mods</a> &nbsp;·&nbsp;
+  <a href="https://github.com/lucasleandro08/llm-knowledge-base-template">B-rank · llm-knowledge-base-template</a> &nbsp;·&nbsp;
+  <a href="https://github.com/lucasleandro08/filemorph">C-rank · filemorph</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-alves-leandro/"><img src="https://img.shields.io/badge/Send_a_messenger_toad-LinkedIn-F57C1F?style=for-the-badge&labelColor=070B1F" alt="LinkedIn"/></a>
+  <a href="mailto:lucasalvesleandro32@gmail.com"><img src="https://img.shields.io/badge/Summoning_jutsu-Email-C8102E?style=for-the-badge&labelColor=070B1F" alt="Email"/></a>
 </p>
